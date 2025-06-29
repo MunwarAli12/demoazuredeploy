@@ -16,6 +16,6 @@ public class DemoApplication {
 	
 	@GetMapping("/home")
 	public String homepage(){
-		return "Welcome to the page!, sucessfully deployed the azure web page";
+		return "Welcome to the page!, sucessfully deployed the azure web page Hurray";
 	}
 }
